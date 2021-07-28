@@ -53,28 +53,8 @@ section h3 {
 
 div img {
     margin: 35px;
-}
-
-table {
-    margin: 35px;
-    padding: 5px;
-}
-
-footer p {
-    color: #660066;
-    display: flex;
-    justify-content: center;
-}
-
-.pie {
-    color: #660066;
-    display: flex;
-    justify-content: center;
-}
-
-.pie img {
-    margin: 3px 5px;
-}
+    
+}        
 
 .contacto {
     border: none;
@@ -209,6 +189,23 @@ ul li a span:nth-child(4) {
 /*Fin Animacion Inicio*/
 
 /*Animación Footer*/
+
+footer p {
+    color: #660066;
+    display: flex;
+    justify-content: center;
+}
+
+.pie {
+    color: #660066;
+    display: flex;
+    justify-content: center;
+}
+
+.pie img {
+    margin: 3px 5px;
+}
+
 .corazon {
     animation: latido 1s infinite;
 
